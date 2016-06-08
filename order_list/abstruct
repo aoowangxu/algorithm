@@ -1,0 +1,2 @@
+1.stack is realized by array
+2.if not define a object, but you use , through you sometime an use it , but when it return will have a segment fault.
